@@ -1,5 +1,5 @@
 {
-  "name": "ChattingApp",
+  "name": "react-native-conversations",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -23,6 +23,7 @@
     "react-native": "0.82.1",
     "react-native-background-timer": "^2.4.1",
     "react-native-callstats": "^3.73.22",
+    "react-native-localize": "^3.6.0",
     "react-native-safe-area-context": "^5.5.2",
     "react-native-svg": "^15.15.0",
     "react-native-video": "^6.18.0",
