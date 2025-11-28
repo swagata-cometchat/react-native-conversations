@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"CometChat Docs": {
+			"url": "https://www.cometchat.com/docs/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}

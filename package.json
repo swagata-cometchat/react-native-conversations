@@ -10,10 +10,23 @@
     "test": "jest"
   },
   "dependencies": {
+    "@cometchat/calls-sdk-react-native": "^4.4.0",
+    "@cometchat/chat-sdk-react-native": "^4.0.17",
+    "@cometchat/chat-uikit-react-native": "^5.2.3",
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-native-clipboard/clipboard": "^1.16.3",
+    "@react-native-community/datetimepicker": "^8.5.1",
+    "@react-native-community/netinfo": "^11.4.1",
+    "@react-native/new-app-screen": "0.82.1",
+    "dayjs": "^1.11.19",
     "react": "19.1.1",
     "react-native": "0.82.1",
-    "@react-native/new-app-screen": "0.82.1",
-    "react-native-safe-area-context": "^5.5.2"
+    "react-native-background-timer": "^2.4.1",
+    "react-native-callstats": "^3.73.22",
+    "react-native-safe-area-context": "^5.5.2",
+    "react-native-svg": "^15.15.0",
+    "react-native-video": "^6.18.0",
+    "react-native-webrtc": "^124.0.7"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
